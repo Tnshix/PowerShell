@@ -254,10 +254,15 @@ The governance policy for the PowerShell project is described [here][].
 
 ## [Code of Conduct][conduct-md]
 
-This project has adopted the [Microsoft Open Source Code of Conduct][conduct-code].
-For more information, see the [Code of Conduct FAQ][conduct-FAQ] or contact [opencode@microsoft.com][conduct-email] with any additional questions or comments.
-
-[conduct-code]: https://opensource.microsoft.com/codeofconduct/
-[conduct-FAQ]: https://opensource.microsoft.com/codeofconduct/faq/
-[conduct-email]: mailto:opencode@microsoft.com
 [conduct-md]: https://github.com/PowerShell/PowerShell/tree/master/CODE_OF_CONDUCT.md
+
+### Microsoft Open Source Code of Conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+
+Resources:
+
+- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
+- [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+- Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with questions or concerns
+- Employees can reach out at [aka.ms/opensource/moderation-support](https://aka.ms/opensource/moderation-support)
